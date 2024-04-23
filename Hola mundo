@@ -1,1 +1,1 @@
-int(imput("hola mundo"))
+print("hola mundo")
